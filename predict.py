@@ -117,3 +117,4 @@ def predict(image, checkpoint, topk=5, labels='', gpu=False):
 
 if args.image and args.checkpoint:
     predict(args.image, args.checkpoint)
+
