@@ -227,3 +227,5 @@ if args.data_dir:
             for x in list(data_transforms.keys())
     }
     do_deep_learning(image_datasets)
+
+    
